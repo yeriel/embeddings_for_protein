@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+inputs/uniprot-reviewed-lim_sequences-2018.txt
+inputs/uniprot-reviewed-seq-2021.txt
+outputs/
